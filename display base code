@@ -18,6 +18,7 @@ pinMode (G, OUTPUT);
 }
 
 void loop() {
+//** x represents "HIGH" or "LOW"
 digitalWrite (A, x)
 digitalWrite (B, x)
 digitalWrite (C, x)

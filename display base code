@@ -18,6 +18,12 @@ pinMode (G, OUTPUT);
 }
 
 void loop() {
-digitalWrite (x, x)
+digitalWrite (A, x)
+digitalWrite (B, x)
+digitalWrite (C, x)
+digitalWrite (D, x)
+digitalWrite (E, x)
+digitalWrite (F, x)
+digitalWrite (G, x)
 delay (x)
 }

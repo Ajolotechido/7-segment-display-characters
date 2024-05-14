@@ -1,0 +1,30 @@
+//**see images of the display
+int A = 2;
+int B = 3;
+int C = 4;
+int D = 5;
+int E = 6;
+int F = 7;
+int G = 8;
+
+void setup() {
+pinMode (A, OUTPUT);
+pinMode (B, OUTPUT);
+pinMode (C, OUTPUT);
+pinMode (D, OUTPUT);
+pinMode (E, OUTPUT);
+pinMode (F, OUTPUT);
+pinMode (G, OUTPUT);
+}
+
+void loop() {
+//**e
+digitalWrite (A, HIGH);
+digitalWrite (B, LOW);
+digitalWrite (C, LOW);
+digitalWrite (D, HIGH);
+digitalWrite (E, HIGH);
+digitalWrite (F, HIGH);
+digitalWrite (G, HIGH);
+delay (x)
+}

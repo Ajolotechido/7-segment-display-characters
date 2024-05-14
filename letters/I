@@ -18,7 +18,7 @@ pinMode (G, OUTPUT);
 }
 
 void loop() {
-//**i
+//**I
 digitalWrite (A, LOW);
 digitalWrite (B, HIGH);
 digitalWrite (C, HIGH);
